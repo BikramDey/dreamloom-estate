@@ -126,10 +126,10 @@ backend - http://localhost:3000.
 Here's a glimpse of what the application looks like:
 
 ### 🏠 Homepage 1
-![Homepage](https://github.com/BikramDey/dreamloom-estate/demo/home1.png)
+![Homepage](https://github.com/BikramDey/dreamloom-estate/blob/master/demo/home1.png)
 
 ### 🏠 Homepage 2
-![Homepage](https://github.com/BikramDey/dreamloom-estate/demo/home2.png)
+![Homepage](https://github.com/BikramDey/dreamloom-estate/blob/master/demo/home2.png)
 
 
 
